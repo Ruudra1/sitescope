@@ -521,7 +521,7 @@ export default function App() {
     startStages()
 
     try {
-      const res = await fetch('/api/groq/openai/v1/chat/completions', {
+      const res = await fetch('/api/audit', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
