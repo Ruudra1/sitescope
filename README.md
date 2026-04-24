@@ -77,4 +77,4 @@ Visit [http://localhost:3000](http://localhost:3000)
 
 ## Live Demo
 
-[View Live Demo](https://sitescope.vercel.app) <!-- Update with actual URL after deployment -->
+[View Live Demo](https://sitescope-blond.vercel.app/)
